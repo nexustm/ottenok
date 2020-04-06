@@ -85,7 +85,7 @@ body {
 
 .col4 ul{
 	padding-left: 10px;
-	list-style-image:url(/images/keyboard-right-arrow-button.png);
+	list-style-image:url(images/keyboard-right-arrow-button.png);
 	font-size: 15px;
 }
 
@@ -450,14 +450,14 @@ body {
 
 .zamer_chel {
 	flex:2;
-	background: url("/images/ZAMERSHIK.png") no-repeat;
+	background: url("images/ZAMERSHIK.png") no-repeat;
 	min-height: 836px;
 	margin-top: 56px;
 }
 
 .zamer_chel2 {
 	flex:2;
-	background: url("/images/ZAMERSHIK2.png") no-repeat;
+	background: url("images/ZAMERSHIK2.png") no-repeat;
 	min-height: 836px;
 	margin-top: 56px;
 }
