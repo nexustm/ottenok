@@ -457,7 +457,7 @@ body {
 
 .zamer_chel2 {
 	flex:2;
-	background: url("/images/ZAMERSHIK2.png") no-repeat;
+	background: url("../images/ZAMERSHIK2.png") no-repeat;
 	min-height: 836px;
 	margin-top: 56px;
 }
