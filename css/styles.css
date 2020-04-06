@@ -85,7 +85,7 @@ body {
 
 .col4 ul{
 	padding-left: 10px;
-	list-style-image:url(images/keyboard-right-arrow-button.png);
+	list-style-image:url(../images/keyboard-right-arrow-button.png);
 	font-size: 15px;
 }
 
