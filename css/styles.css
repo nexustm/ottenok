@@ -1,6 +1,12 @@
+html {
+	min-width: 1200px;
+}
+
 body {
 	font-family: Montserrat, sans-serif;
 }
+
+
 
 .inner {
 	width: 1200px;
