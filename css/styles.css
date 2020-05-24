@@ -336,6 +336,7 @@ body {
 	border-color: #e1e1e1;
 	margin-right: 40px;
 	outline: none;
+	align-items: center;
 }
 
 .subtitle button:hover {
@@ -389,6 +390,7 @@ body {
     -moz-box-shadow: 0px 4px 2px 0px rgba(226,209,197,1);
 	box-shadow: 0px 4px 2px 0px rgba(226,209,197,1);
 	margin-left: 0px;
+	align-items: center;
 }
 
 .product_name {
@@ -460,6 +462,7 @@ body {
 	background: url("../images/ZAMERSHIK2.png") no-repeat;
 	min-height: 836px;
 	margin-top: 56px;
+	padding-bottom: 86px;
 }
 
 .zamer_forms .header_form_input2 input{
